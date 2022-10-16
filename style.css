@@ -169,11 +169,13 @@ nav{
     width: 35px;
     margin-right: 10px;
     border-radius: 50%;
+    float: left;
 }
 
 .vid-info{
     color: #5a5a5a;
     font-size: 13px;
+    float: left;
 }
 
 .vid-info a{
