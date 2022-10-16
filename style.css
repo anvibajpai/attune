@@ -107,7 +107,7 @@ nav{
 
 /* ------- main-------- */
 
-.container{
+.refContainer{
     background: #f9f9f9;
     padding-left: 17%;
     padding-right: 2%;
@@ -128,7 +128,7 @@ nav{
     border-radius: 8px;
 }
 
-.list-container{
+.list-refContainer{
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 16px;
@@ -137,13 +137,13 @@ nav{
 }
 
 @media (max-width: 750px) {
-    .list.container {
+    .list-refContainer{
         grid-template-columns: 1fr;
     }
 }
 
 @media (min-width: 751px){
-    .list.container {
+    .list-refContainer{
         grid-template-columns: 1fr 1fr;
     }
 }
