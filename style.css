@@ -189,10 +189,16 @@ nav{
     margin-top: 7px;
 }
 
-.vid-list .flex-div img{
+.list-edu .flex-div img{
     width: 35px;
     margin-right: 10px;
     border-radius: 50%;
+}
+
+.vid-list-edu .flex-div img{
+    width: 100%;
+    height: 250px;
+    border-radius: 5px;
 }
 
 .vid-info{
