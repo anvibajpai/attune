@@ -175,6 +175,10 @@ nav{
     border-radius: 50%;
 }
 
+.forms-vid-list .flex-div{
+    margin-bottom: 10px;
+}
+
 .forms-vid-list .flex-div img{
     width: 100px;
     height: 100px;
