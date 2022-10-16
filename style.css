@@ -132,7 +132,7 @@ nav{
     border-radius: 8px;
 }
 
-.banneraustinplaces img{
+.banneraustinplaces {
     font-family: 'poppins', 'sans-serif';
     text-align: center;
     font-weight: bold; 
