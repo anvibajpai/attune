@@ -160,6 +160,12 @@ nav{
     border-radius: 5px;
 }
 
+.vid-list .edu-thumbnail{
+    width: 100%;
+    border-radius: 5px;
+    float: left;
+}
+
 .vid-list .flex-div{
     align-items: flex-start;
     margin-top: 7px;
@@ -173,6 +179,11 @@ nav{
 }
 
 .vid-info{
+    color: #5a5a5a;
+    font-size: 13px;
+}
+
+.edu-vid-info{
     color: #5a5a5a;
     font-size: 13px;
     float: left;
