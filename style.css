@@ -184,6 +184,12 @@ nav{
     border-radius: 5px;
 }
 
+.vid-list .edu-thumbnail{
+    width: 100%;
+    height: 225px;
+    border-radius: 5px;
+}
+
 .vid-list-austinplaces .thumbnail{
     width: 100%;
     height: 200px;
