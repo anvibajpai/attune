@@ -165,6 +165,14 @@ nav{
     margin-top: 15px;
 }
 
+.list-eduContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 16px;
+    row-gap: 30px;
+    margin-top: 15px;
+}
+
 
 .vid-list .thumbnail{
     width: 100%;
