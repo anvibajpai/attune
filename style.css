@@ -178,6 +178,12 @@ nav{
     font-size: 13px;
 }
 
+.forms-vid-info{
+    color: #5a5a5a;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
 .vid-img{
     float: left;
 }
@@ -185,7 +191,6 @@ nav{
 .edu-vid-info{
     color: #5a5a5a;
     font-size: 13px;
-    float: left;
 }
 
 .vid-info a{
