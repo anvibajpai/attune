@@ -31,11 +31,6 @@ nav{
     z-index: 10;
 }
 
-.nav-right img{
-   width: 25px;
-   margin-right: 25px;
-}
-
 .nav-right .user-icon{
     width: 30px;
     border-radius: 50%;
@@ -49,7 +44,7 @@ nav{
 }
 
 .nav-left .logo{
-    width: 55px;
+    width: 65px;
 }
 
 
