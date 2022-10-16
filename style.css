@@ -201,6 +201,23 @@ nav{
     border-radius: 50%;
 }
 
+.vid-list-edu .thumbnail{
+    width: 90%;
+    height: 225px;
+    border-radius: 5px;
+}
+
+.vid-list-edu .flex-div{
+    align-items: flex-start;
+    margin-top: 7px;
+}
+
+.vid-list-edu .flex-div img{
+    width: 35px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
 .vid-info{
     color: #5a5a5a;
     font-size: 13px;
